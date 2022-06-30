@@ -1,0 +1,52 @@
+DFD	Function	Enrichment	mode
+chr1:134182176-138848577	muscle contraction	0.041	1
+chr1:134182176-138848577	contractile fiber	0.011	1
+chr1:134182176-138848577	contractile fiber part	0.00625	1
+chr1:134182176-138848577	myofibril	0.00836	1
+chr1:134182176-138848577	sarcomere	0.00473	1
+chr11:97703399-100457022	supramolecular complex	0.00952	1
+chr11:97703399-100457022	supramolecular polymer	0.00941	1
+chr11:97703399-100457022	supramolecular fiber	0.00881	1
+chr11:100462614-106202168	regulation of mitotic cell cycle	0.0357	1
+chr11:100462614-106202168	tube morphogenesis	0.0215	1
+chr15:74606029-76511953	anchored component of membrane	0.000192	1
+chr15:99392882-103827979	anterior/posterior pattern specification	0.00453	1
+chr18:35703225-37841870	cell-cell adhesion	3.31e-11	1
+chr18:35703225-37841870	cell-cell adhesion via plasma-membrane adhesion molecules	3.63e-19	1
+chr18:35703225-37841870	homophilic cell adhesion via plasma membrane adhesion molecules	2.41e-22	1
+chr18:35703225-37841870	calcium ion binding	2.14e-11	1
+chr18:37742094-38360538	cell-cell adhesion	2.52e-09	1
+chr18:37742094-38360538	cell-cell adhesion via plasma-membrane adhesion molecules	1.57e-14	1
+chr18:37742094-38360538	homophilic cell adhesion via plasma membrane adhesion molecules	1.43e-16	1
+chr18:37742094-38360538	calcium ion binding	1.89e-09	1
+chr3:89520164-93449077	calcium ion binding	0.000105	1
+chr3:104945272-108146146	regulation of transmembrane transport	0.00305	1
+chr9:44334694-46012690	regulation of sodium ion transport	0.0345	1
+chr9:88327197-99002021	positive regulation of hydrolase activity	0.0169	1
+chr9:105856078-108565584	growth	0.00772	1
+chr1:56971412-66780107	axonogenesis	0.0343	-1
+chr15:1-9202483	growth factor binding	0.0291	-1
+chr18:12740322-21028224	homophilic cell adhesion via plasma membrane adhesion molecules	0.0115	-1
+chr2:72285637-84886710	skeletal system development	0.0207	-1
+chr2:72285637-84886710	appendage development	0.0345	-1
+chr2:72285637-84886710	limb development	0.0345	-1
+chr2:72285637-84886710	appendage morphogenesis	0.014	-1
+chr2:72285637-84886710	limb morphogenesis	0.014	-1
+chr2:72285637-84886710	embryonic morphogenesis	6.36e-05	-1
+chr2:72285637-84886710	embryonic appendage morphogenesis	0.00618	-1
+chr2:72285637-84886710	embryonic limb morphogenesis	0.00618	-1
+chr2:72285637-84886710	animal organ morphogenesis	0.00144	-1
+chr2:72285637-84886710	anterior/posterior pattern specification	0.00547	-1
+chr6:48860329-54279076	skeletal system development	0.0164	-1
+chr6:48860329-54279076	pattern specification process	0.0087	-1
+chr6:48860329-54279076	regionalization	0.00187	-1
+chr6:48860329-54279076	anterior/posterior pattern specification	0.00171	-1
+chr7:30973790-42592547	regulation of sodium ion transport	0.00307	-1
+chr7:45062429-57828802	inorganic ion transmembrane transport	0.00104	-1
+chr7:45062429-57828802	cation transmembrane transport	0.0315	-1
+chr7:45062429-57828802	inorganic cation transmembrane transport	0.0413	-1
+chr7:45062429-57828802	passive transmembrane transporter activity	0.000182	-1
+chr7:45062429-57828802	channel activity	0.000182	-1
+chr7:45062429-57828802	substrate-specific channel activity	0.000686	-1
+chr7:45062429-57828802	ion transmembrane transporter activity	0.000425	-1
+chr7:45062429-57828802	ion channel activity	0.000527	-1

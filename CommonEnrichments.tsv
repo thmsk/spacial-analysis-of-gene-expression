@@ -1,0 +1,86 @@
+comfunc	X1	X2	X3	X4
+skeletal system development	1	1	2	1
+skeletal system morphogenesis	4	0	0	3
+embryonic organ morphogenesis	1	0	0	1
+pattern specification process	1	1	1	1
+regionalization	3	3	1	1
+anterior/posterior pattern specification	1	1	3	1
+cell surface	1	0	1	1
+cell-cell adhesion	3	1	2	2
+calcium ion binding	1	1	3	1
+regulation of transmembrane transport	1	3	1	0
+negative regulation of growth	1	0	0	1
+developmental growth involved in morphogenesis	1	0	0	1
+developmental cell growth	1	0	0	1
+negative regulation of cell projection organization	1	0	0	1
+negative regulation of neuron differentiation	1	0	0	1
+negative regulation of neuron projection development	1	0	0	1
+appendage development	1	1	0	1
+limb development	1	2	0	1
+appendage morphogenesis	1	2	0	1
+limb morphogenesis	1	1	0	1
+animal organ morphogenesis	1	1	0	2
+embryonic morphogenesis	1	1	0	1
+embryonic appendage morphogenesis	1	1	0	1
+embryonic limb morphogenesis	1	1	0	1
+cell migration involved in sprouting angiogenesis	2	0	0	0
+negative chemotaxis	1	0	0	0
+sensory perception of mechanical stimulus	1	0	0	0
+sensory perception of sound	1	0	0	1
+ion transmembrane transporter activity	3	1	1	1
+inorganic molecular entity transmembrane transporter activity	1	0	0	1
+muscle contraction	0	1	0	0
+contractile fiber	0	1	0	0
+contractile fiber part	0	3	0	0
+myofibril	0	1	0	0
+sarcomere	0	1	0	0
+supramolecular complex	0	1	1	1
+supramolecular polymer	0	1	1	1
+supramolecular fiber	0	1	3	1
+regulation of mitotic cell cycle	0	1	0	0
+tube morphogenesis	0	1	0	0
+anchored component of membrane	0	1	0	0
+cell-cell adhesion via plasma-membrane adhesion molecules	0	1	1	0
+homophilic cell adhesion via plasma membrane adhesion molecules	0	1	1	0
+regulation of sodium ion transport	0	1	0	0
+positive regulation of hydrolase activity	0	1	1	0
+growth	0	1	1	0
+axonogenesis	0	2	1	0
+growth factor binding	0	1	0	0
+inorganic ion transmembrane transport	0	1	0	1
+cation transmembrane transport	0	2	0	0
+inorganic cation transmembrane transport	0	1	0	0
+passive transmembrane transporter activity	0	1	0	1
+channel activity	0	1	0	1
+substrate-specific channel activity	0	1	0	1
+ion channel activity	0	1	0	1
+regulation of cell cycle	0	0	1	0
+cytoskeletal protein binding	0	0	1	0
+transcription factor binding	0	0	1	0
+positive regulation of binding	0	0	1	0
+regulation of protein localization	0	0	1	0
+embryonic skeletal system development	0	0	1	1
+embryonic skeletal system morphogenesis	0	0	1	1
+inflammatory response	0	0	1	0
+axon development	0	0	1	0
+DNA-binding transcription factor activity, RNA polymerase II-specific	0	0	0	1
+DNA-binding transcription activator activity, RNA polymerase II-specific	0	0	0	1
+Golgi stack	0	0	0	1
+Golgi cisterna	0	0	0	1
+specification of symmetry	0	0	0	1
+determination of bilateral symmetry	0	0	0	1
+determination of left/right symmetry	0	0	0	1
+negative regulation of hemopoiesis	0	0	0	1
+transcription factor activity, RNA polymerase II proximal promoter sequence-specific DNA binding	0	0	0	1
+RNA polymerase II proximal promoter sequence-specific DNA binding	0	0	0	1
+neuron projection extension	0	0	0	2
+endoplasmic reticulum subcompartment	0	0	0	1
+nuclear outer membrane-endoplasmic reticulum membrane network	0	0	0	1
+endoplasmic reticulum membrane	0	0	0	2
+gated channel activity	0	0	0	1
+ligand-gated channel activity	0	0	0	1
+cation transmembrane transporter activity	0	0	0	1
+inorganic cation transmembrane transporter activity	0	0	0	1
+metal ion transmembrane transporter activity	0	0	0	1
+ion gated channel activity	0	0	0	1
+ligand-gated ion channel activity	0	0	0	1

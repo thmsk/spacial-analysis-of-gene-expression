@@ -1,0 +1,41 @@
+DFD	Function	Enrichment	mode
+chr11:95145052-97629702	skeletal system development	0.00375	1
+chr11:95145052-97629702	skeletal system morphogenesis	0.000155	1
+chr11:95145052-97629702	embryonic organ morphogenesis	0.021	1
+chr11:95145052-97629702	pattern specification process	0.018	1
+chr11:95145052-97629702	regionalization	0.00325	1
+chr11:95145052-97629702	anterior/posterior pattern specification	7.25e-05	1
+chr15:98877778-103827979	anterior/posterior pattern specification	0.011	1
+chr17:34660457-35534647	cell surface	0.00509	1
+chr18:35713086-37841873	cell-cell adhesion	4.57e-07	1
+chr18:35713086-37841873	calcium ion binding	3.29e-07	1
+chr18:37720369-38265461	cell-cell adhesion	2.92e-14	1
+chr18:37720369-38265461	calcium ion binding	2.01e-14	1
+chr3:89454541-96239127	calcium ion binding	0.0104	1
+chr3:104794836-108086651	regulation of transmembrane transport	0.00422	1
+chr8:88137855-95103149	negative regulation of growth	0.0371	1
+chrX:73639419-74373349	developmental growth involved in morphogenesis	0.0431	1
+chrX:73639419-74373349	developmental cell growth	0.0422	1
+chrX:73639419-74373349	negative regulation of cell projection organization	0.000494	1
+chrX:73639419-74373349	negative regulation of neuron differentiation	0.0365	1
+chrX:73639419-74373349	negative regulation of neuron projection development	0.00501	1
+chr15:12031565-31367726	cell-cell adhesion	0.0178	-1
+chr2:71745616-84830213	anterior/posterior pattern specification	0.00607	-1
+chr2:71745616-84830213	skeletal system development	0.0235	-1
+chr2:71745616-84830213	appendage development	0.00253	-1
+chr2:71745616-84830213	limb development	0.00253	-1
+chr2:71745616-84830213	appendage morphogenesis	0.0153	-1
+chr2:71745616-84830213	limb morphogenesis	0.0153	-1
+chr2:71745616-84830213	animal organ morphogenesis	0.000269	-1
+chr2:71745616-84830213	embryonic morphogenesis	7.72e-05	-1
+chr2:71745616-84830213	embryonic appendage morphogenesis	0.00677	-1
+chr2:71745616-84830213	embryonic limb morphogenesis	0.00677	-1
+chr2:112363011-120043030	cell migration involved in sprouting angiogenesis	0.0397	-1
+chr5:1-20704792	negative chemotaxis	0.00119	-1
+chr6:48427697-52260880	skeletal system development	0.022	-1
+chr6:48427697-52260880	regionalization	0.0392	-1
+chr6:48427697-52260880	anterior/posterior pattern specification	0.00224	-1
+chr7:46104523-67372858	sensory perception of mechanical stimulus	0.0319	-1
+chr7:46104523-67372858	sensory perception of sound	0.0111	-1
+chr7:46104523-67372858	ion transmembrane transporter activity	0.0366	-1
+chr7:46104523-67372858	inorganic molecular entity transmembrane transporter activity	0.0182	-1

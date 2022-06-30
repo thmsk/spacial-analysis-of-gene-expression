@@ -1,0 +1,35 @@
+DFD	Function	Enrichment	mode
+chr11:76924809-87743623	regulation of cell cycle	2.79e-05	1
+chr11:76924809-87743623	cytoskeletal protein binding	0.0186	1
+chr11:98682554-101259549	supramolecular complex	9.45e-05	1
+chr11:98682554-101259549	supramolecular polymer	9.32e-05	1
+chr11:98682554-101259549	supramolecular fiber	8.56e-05	1
+chr11:98682554-101259549	transcription factor binding	0.0285	1
+chr13:23553262-32822609	positive regulation of binding	0.0141	1
+chr14:26356574-31216946	regulation of protein localization	0.047	1
+chr15:99497012-103827979	anterior/posterior pattern specification	0.0037	1
+chr18:12955852-21100199	cell-cell adhesion via plasma-membrane adhesion molecules	0.0428	1
+chr18:12955852-21100199	homophilic cell adhesion via plasma membrane adhesion molecules	0.00823	1
+chr18:36783008-37841873	cell-cell adhesion	2.3e-20	1
+chr18:36783008-37841873	cell-cell adhesion via plasma-membrane adhesion molecules	4.99e-29	1
+chr18:36783008-37841873	homophilic cell adhesion via plasma membrane adhesion molecules	1.93e-32	1
+chr18:36783008-37841873	calcium ion binding	1.42e-20	1
+chr18:37746559-43171824	cell-cell adhesion	5.22e-06	1
+chr18:37746559-43171824	cell-cell adhesion via plasma-membrane adhesion molecules	2.07e-09	1
+chr18:37746559-43171824	homophilic cell adhesion via plasma membrane adhesion molecules	3.08e-11	1
+chr18:37746559-43171824	calcium ion binding	6.39e-05	1
+chr3:89401004-93449077	calcium ion binding	0.000485	1
+chr3:104788375-108017973	regulation of transmembrane transport	0.00305	1
+chr6:48626764-53978671	skeletal system development	0.0357	1
+chr6:48626764-53978671	embryonic skeletal system development	0.00024	1
+chr6:48626764-53978671	embryonic skeletal system morphogenesis	0.00188	1
+chr6:48626764-53978671	pattern specification process	0.019	1
+chr6:48626764-53978671	regionalization	0.00413	1
+chr6:48626764-53978671	anterior/posterior pattern specification	0.00347	1
+chr6:113237843-115677780	inflammatory response	0.0196	1
+chr9:88447009-99140621	positive regulation of hydrolase activity	0.0133	1
+chr9:105989454-108567434	growth	0.00871	1
+chr1:58383512-66863277	axon development	0.0237	-1
+chr1:58383512-66863277	axonogenesis	0.0128	-1
+chr17:34809092-35534647	cell surface	0.00288	-1
+chr7:45554893-57510059	ion transmembrane transporter activity	0.015	-1
